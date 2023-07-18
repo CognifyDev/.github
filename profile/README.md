@@ -2,11 +2,9 @@
 
 #### 📢About Us
 
-We are developers from China! We develop some Bukkit/Spigot plugins or others.
+We are developers from China!
 
 We are more inclined towards non-profit.
-
-
 
 #### 😏Look for developers...
 
